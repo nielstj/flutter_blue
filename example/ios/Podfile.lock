@@ -13,8 +13,8 @@ PODS:
   - Protobuf (3.5.0)
 
 DEPENDENCIES:
-  - Flutter (from `/Users/pauldemarco/flutter/bin/cache/artifacts/engine/ios`)
-  - flutter_blue (from `/Users/pauldemarco/flutter_blue/ios`)
+  - Flutter (from `/Users/Nielstj/flutter/bin/cache/artifacts/engine/ios`)
+  - flutter_blue (from `/Users/Nielstj/Repositories/FLUTTER/packages/flutter_blue/ios`)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -23,9 +23,9 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   Flutter:
-    :path: "/Users/pauldemarco/flutter/bin/cache/artifacts/engine/ios"
+    :path: "/Users/Nielstj/flutter/bin/cache/artifacts/engine/ios"
   flutter_blue:
-    :path: "/Users/pauldemarco/flutter_blue/ios"
+    :path: "/Users/Nielstj/Repositories/FLUTTER/packages/flutter_blue/ios"
 
 SPEC CHECKSUMS:
   "!ProtoCompiler": 3e9dc8340c8f1bbab40aa0f5acb965a4be02f849
